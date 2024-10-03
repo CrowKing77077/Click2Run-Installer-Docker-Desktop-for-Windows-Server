@@ -20,3 +20,9 @@ Just click to run!!
 You have to update you Windows Server latest version.
 
 Please check Windows Update.
+
+# How to use
+
+1. Download **Windows/Server/Docker Installer.ps1**
+2. Right click **Docker Installer.ps1**
+3. Click **Run as PowerShell**
